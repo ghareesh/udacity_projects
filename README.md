@@ -4,6 +4,7 @@ Projects done as part of Udacity DL course
 dog_app.ipynb
 
 This consist of 
+
 a. face_detector to identify human
 
 b. dog detector to detect dog
